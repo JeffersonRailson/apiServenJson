@@ -1,0 +1,5 @@
+{
+      "user": [
+      { "id": 1, "nome": "Jefferson Railson", "idade": "23", "sexo":"masculino","endereco": "rua 04,q 02 casa 18 - Mutirão", "cidade":"Timon", "uf": "Maranhão" }
+    ]
+  }
